@@ -10,7 +10,7 @@ $ git clone https://github.com/Leakageonthelamp/scg-test-project-server.git
 $ yarn or npm install
 
 # serve with hot reload at localhost:3000 as API server serive
-$ yarn start
+$ yarn start or npm run start
 
 Next please go to Client git repository
 ```
